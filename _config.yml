@@ -226,8 +226,6 @@ exclude:
   - vendor
   - _pages/dropdown
   - _pages/news
-  - _pages/blog
-  - _pages/news
   - _pages/profiles
   - _pages/projects
   - _pages/repositories
